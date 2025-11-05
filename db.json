@@ -1,0 +1,134 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "name": "Smartphone XYZ",
+        "description": "A high-end smartphone with a sleek design and powerful features.",
+        "price": 799.99,
+        "category": "Electronics",
+        "image": "https://png.pngtree.com/png-clipart/20240907/original/pngtree-the-new-xyz-smartphone-design-and-innovation-png-image_15964110.png"
+    },
+    {
+        "id": 2,
+        "name": "Wireless Headphones ABC",
+        "description": "Noise-cancelling wireless headphones with superior sound quality.",
+        "price": 199.99,
+        "category": "Electronics",
+        "image": "https://abcpapeleria.uy/web/wp-content/uploads/2023/05/S399dddf992d04ff4a28d3abaab822087T-e1685111164601.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes 123",
+        "description": "Lightweight running shoes designed for comfort and performance.",
+        "price": 129.99,
+        "category": "Footwear",
+        "image": "https://m.media-amazon.com/images/I/517-8XU3xEL._AC_SY900_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Coffee Maker Pro",
+        "description": "Brew the perfect cup of coffee with this advanced coffee maker.",
+        "price": 89.99,
+        "category": "Home",
+        "image": "https://m.media-amazon.com/images/I/71e0GfcVfUL.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Gaming Laptop G15",
+        "description": "A powerful gaming laptop with high-end graphics and processing power.",
+        "price": 1499.99,
+        "category": "Computers",
+        "image": "https://m.media-amazon.com/images/I/71OyrTkxpGL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Smartwatch S2",
+        "description": "A stylish smartwatch with fitness tracking and notification features.",
+        "price": 249.99,
+        "category": "Wearables",
+        "image": "https://sampler.com.uy/imgs/productos/productos34_96624.jpg"
+    },
+    {
+        "id": 7,
+        "name": "4K Ultra HD TV",
+        "description": "Experience stunning visuals with this 55-inch 4K Ultra HD television.",
+        "price": 699.99,
+        "category": "Electronics",
+        "image": "https://www.shutterstock.com/image-illustration/4k-monitor-isolated-on-white-260nw-1029025798.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bluetooth Speaker Mini",
+        "description": "Compact Bluetooth speaker with impressive sound quality and portability.",
+        "price": 49.99,
+        "category": "Audio",
+        "image": "https://miuruguay.com.uy/wp-content/uploads/2024/12/xiaomiBluetoothSpeakerMini_00.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Digital Camera ZX100",
+        "description": "Capture stunning photos and videos with this high-resolution digital camera.",
+        "price": 399.99,
+        "category": "Photography",
+        "image": "https://m.media-amazon.com/images/I/51ZRqRbOykL._AC_UF350,350_QL80_.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Electric Toothbrush ProClean",
+        "description": "Maintain oral hygiene with this advanced electric toothbrush.",
+        "price": 59.99,
+        "category": "Personal Care",
+        "image": "https://jmau.imgix.net/media/catalog/product/o/s/oseb001-w-one-rechargeable-electric-toothbrush.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Fitness Tracker FitBand",
+        "description": "Track your daily activities and health metrics with this fitness tracker.",
+        "price": 99.99,
+        "category": "Wearables",
+        "image": "https://habitar.com.ar/media/catalog/product/cache/a3071fdb4f29fdd58879fba053f62414/s/m/smartband-smart-kassel.jpg"
+    },
+    {
+        "id": 12,
+        "name": "E-Reader Light",
+        "description": "Read your favorite books on this lightweight e-reader with a glare-free screen.",
+        "price": 129.99,
+        "category": "Electronics",
+        "image": "https://ozeri.com/public/frontend/img/novelty/B0069W345G/product/medium/medium-img1.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Portable Charger PowerBank",
+        "description": "Keep your devices charged on the go with this high-capacity portable charger.",
+        "price": 39.99,
+        "category": "Accessories",
+        "image": "https://m.media-amazon.com/images/I/71NVBNrF1pL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Smart Home Hub",
+        "description": "Control all your smart home devices with this central hub.",
+        "price": 149.99,
+        "category": "Home Automation",
+        "image": "https://blog-cdn.athom.com/uploads/2019/08/Homey-Pro-1-1536x864.png"
+    },
+    {
+        "id": 15,
+        "name": "Action Camera AdventurePro",
+        "description": "Capture your adventures in stunning detail with this rugged action camera.",
+        "price": 299.99,
+        "category": "Photography",
+        "image": "https://www.campingworld.co.uk/Images/Models/Original/29157.Png"
+    },
+    {
+        "id": 16,
+        "name": "Noise-Cancelling Earbuds",
+        "description": "Experience immersive sound with these noise-cancelling wireless earbuds.",
+        "price": 149.99,
+        "category": "Audio",
+        "image": "https://m.media-amazon.com/images/I/61qIEvCy6+L._AC_SY355_.jpg"
+    }
+],
+"orders": []
+ }
+
