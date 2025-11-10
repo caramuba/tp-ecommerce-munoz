@@ -1,0 +1,134 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "name": "Maceta 1 Litros",
+        "description": "Maceta de plastico negro de 1 litro. ideal para indoor.",
+        "price": 1,
+        "category": "Macetas",
+        "image": "https://florprohibida.com/17666-superlarge_default/maceta-cuadrada-1l-plastico.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Maceta 5 Litros",
+        "description": "Maceta de plastico negro de 5 litros. ideal para indoor",
+        "price": 2,
+        "category": "Macetas",
+        "image": "https://florprohibida.com/17683-large_default/maceta-cuadrada-5l-plastico.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Maceta 15 Litros",
+        "description": "Maceta Tex Pot negro de 15 litros. ideal para indoor.",
+        "price": 3,
+        "category": "Macetas",
+        "image": "https://florprohibida.com/18213-large_default/maceta-de-tela-tex-pot-agro-negra-15l.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Maceta 22 Litros",
+        "description": "Maceta Root Pouch de 22 litros, sin asas, ideal para jardin interior y exterior.",
+        "price": 4,
+        "category": "Macetas",
+        "image": "https://florprohibida.com/23309-superlarge_default/maceta-root-pouch-12l.jpg"
+    },
+    {
+        "id": 5,
+        "name": "50 Litros de sustrato",
+        "description": "Bolsa de 50 litros, sutrato preparado.",
+        "price": 12,
+        "category": "sustrato",
+        "image": "https://www.almacenrural.com.uy/contentimg/33300/1/d/491309_L.jpg"
+    },
+    {
+        "id": 6,
+        "name": "20 Litros de sustrato",
+        "description": "Bolsa de 20 litros, sutrato preparado.",
+        "price": 8,
+        "category": "sustrato",
+        "image": "https://www.almacenrural.com.uy/contentimg/40006/1/d/419329_L.jpg"
+    },
+    {
+        "id": 7,
+        "name": "5 Litros de sustrato",
+        "description": "ExperiencBolsa de 5 litros, sutrato preparado.",
+        "price": 4,
+        "category": "sustrato",
+        "image": "https://www.almacenrural.com.uy/contentimg/33299/1/d/491307_L.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Pipa de vidrio",
+        "description": "Pipa de vidrio, diferentes tamaños y colores.",
+        "price": 15,
+        "category": "Parafernalia",
+        "image": "https://www.lahuertagrowshop.com/11871-large_default/pipa-de-cristal.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Bong de vidrio",
+        "description": "Bong de crissta, varios colores y tamaños.",
+        "price": 99,
+        "category": "Parafernalia",
+        "image": "https://growshopdelpaso.com/wp-content/uploads/2023/05/alienaa4.png"
+    },
+    {
+        "id": 10,
+        "name": "Hojillas saborizadas",
+        "description": "Hojillas saborizadas, diferentes tamaños.",
+        "price": 2,
+        "category": "Parafernalia",
+        "image": "https://jamaicablue.uy/9-large_default/hojilla-hornet-saborizada-king-size.jpgnpm run dedv"
+    },
+    {
+        "id": 11,
+        "name": "Semillas",
+        "description": "Variedad de semillas feminizadas y regulares de alta calidad.",
+        "price": 10,
+        "category": "Semillas",
+        "image": "https://sensiseeds.com/blog/wp-content/uploads/2019/12/hundreds-of-seeds-1024x683.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Luz Led 30 W",
+        "description": "Lampara Led para Crecimiento, Indoor.",
+        "price": 129,
+        "category": "Iluminacion",
+        "image": "https://www.silverled.com.uy/wp-content/uploads/2023/11/D_678719-MLU50837329314_072022-F.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Kit iluminacion 400 W",
+        "description": "Kit Lampara de Sodio 400w + Balastro 200w + cable + Portalamparas",
+        "price": 180,
+        "category": "Iluminacion",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_695693-MLA50159745663_062022-O.webp"
+    },
+    {
+        "id": 14,
+        "name": "Kit Iluminacion 200 W",
+        "description": "Kit Lampara de Sodio 200w + Balastro 200w + cable + Portalamparas",
+        "price": 149,
+        "category": "Iluminacion",
+        "image": "https://growprof.com.ar/wp-content/uploads/2021/04/BALASTO-400W-LUMENS-CABLEADO-LAMPARA-SODIO-Y-PORTALAMPARAS-CON-CABLE-scaled.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Reflector",
+        "description": "CReflector tipo Gaviota profesional",
+        "price": 49,
+        "category": "Iluminacion",
+        "image": "https://www.growimagine.com/1822-thickbox_default/pantalla-exterior-cooltube.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Reflector",
+        "description": "Reflector refrigerado prifesional.",
+        "price": 90,
+        "category": "Iluminacion",
+        "image": "https://mediagrow.com.uy/wp-content/uploads/2018/04/indoormatrix-300x211.png"
+    }
+],
+"orders": []
+ }
+
