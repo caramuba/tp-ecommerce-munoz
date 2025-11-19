@@ -10,7 +10,7 @@ import NoEncontrada from "./pages/NoEncontrada";
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-green-200 text-gray-900 flex flex-col">
+      <div className="min-h-screen text-gray-900 flex flex-col bg-lime-100">
         <Header/>
         <main className="flex-1 max-w-6x1 mx-auto w-full px-4 py-4">
           <Routes>  
