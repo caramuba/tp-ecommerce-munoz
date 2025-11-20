@@ -49,7 +49,7 @@ export const productsCart = create(
         }, o);
       },
       getTotalItems: () => {
-        return get().item.reduce((total, item) => total + item.cantidad, 0);
+        return get().items.reduce((total, item) => total + item.cantidad, 0);
       },
       openCart: () => set({ isOpen: true }),
       closeCart: () => set({ isOpen: false }),
@@ -77,3 +77,5 @@ export const productsCart = create(
     }
   )
 );
+
+export const useCartStore = productsCart;
